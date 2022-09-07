@@ -8,7 +8,10 @@ __pycache__
 Instructions
 */Instructions/*
 
+./WeatherPy/api_keys.py
+
+VacationPy/api_keys.py
 WeatherPy/api_keys.py
-
-
+./VacationPy/api_keys.py
+./WeatherPy/api_keys.py
 
