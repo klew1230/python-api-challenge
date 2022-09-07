@@ -3,3 +3,8 @@ WeatherPy/api_keys.py
 /WeatherPy/api_keys.py
 ./WeatherPy/api_keys.py
 
+WeatherPy/.ipynb_checkpoints/
+
+api_keys*
+
+*.py
